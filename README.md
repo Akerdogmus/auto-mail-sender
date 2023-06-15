@@ -22,6 +22,21 @@ Contributions and improvements are welcome! Feel free to fork the repository and
 NOTE: For using your Gmail services for this, please change your account settings right below:
 Login to your email account -> click manage account -> security -> turn on 2 step verification -> go back to security page and click app passwords (https://myaccount.google.com/apppasswords) -> in select app choose "other" -> paste "WP Mail SMTP" and click generate-> copy the password to the code
 
+DISCLAIMER: Use this code responsibly and adhere to the legal requirements and terms of service of your email service provider. The code provided here is for educational purposes only, and the responsibility for its usage lies with the end user. By using this code, you agree that the author and the repository maintainers are not responsible for any misuse, violation of terms, or legal implications that may arise from the use of this code.
+---
+NOTE: Spamming or sending unsolicited emails is strictly prohibited and may be illegal. Ensure that you comply with all applicable laws and regulations, including but not limited to anti-spam laws and privacy laws.
+
+By using this repository and its code, you acknowledge and agree to the following:
+
+    You will use this code for lawful purposes only.
+    You will not use this code to send spam or unsolicited emails.
+    You will comply with all applicable laws, regulations, and the terms of service of your email service provider.
+    You understand that the authors and repository maintainers are not responsible for any misuse, violation of terms, or legal consequences resulting from the use of this code.
+    You assume all responsibility and liability for the use of this code and its consequences.
+    You will take appropriate measures to ensure the security and confidentiality of the sender's email address and password stored in the 'sender.txt' file.
+    You will not distribute, sell, or claim this code as your own without proper attribution to the original author and repository.
+
+Remember, it is your responsibility to use this code in a lawful and ethical manner.
 # Changelog
 ## Version 1.1.0 - 2023-06-15
 ### Added
