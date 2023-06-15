@@ -22,6 +22,60 @@ Contributions and improvements are welcome! Feel free to fork the repository and
 NOTE: For using your Gmail services for this, please change your account settings right below:
 Login to your email account -> click manage account -> security -> turn on 2 step verification -> go back to security page and click app passwords (https://myaccount.google.com/apppasswords) -> in select app choose "other" -> paste "WP Mail SMTP" and click generate-> copy the password to the code
 
+# Changelog
+## Version 1.1.0 - 2023-06-15
+### Added
+
+    Added support for using relative file paths for the sender email file and recipients file.
+    Included a new function get_current_directory() to retrieve the current directory.
+    Improved code readability and maintainability.
+
+### Changed
+
+    Updated file paths for the sender email file and recipients file in the new code.
+
+### Deprecated
+
+    None
+
+### Removed
+
+    Removed the unused import statement import os from the new code.
+
+### Fixed
+
+    Fixed a potential issue in the new code where the file paths were not being correctly set.
+    Improved exception handling and error messages when sending emails.
+
+### Security
+
+    None
+
+## Version 1.0.0 - 2023-06-15
+### Added
+
+    Initial implementation of the email sender script.
+    Basic functionality to read sender information from a file, read recipient list from a file, and send separate emails to each recipient.
+
+### Changed
+
+    None
+
+### Deprecated
+
+    None
+
+### Removed
+
+    None
+
+### Fixed
+
+    None
+
+### Security
+
+    None
 
 Let's automate your email communication with the Auto Mail Sender script!
 
