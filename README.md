@@ -19,5 +19,9 @@ This script is a useful tool for sending automated emails for various purposes, 
 
 Contributions and improvements are welcome! Feel free to fork the repository and submit pull requests to enhance the functionality or add new features.
 
+NOTE: For using your Gmail services for this, please change your account settings right below:
+Login to your email account -> click manage account -> security -> turn on 2 step verification -> go back to security page and click app passwords (https://myaccount.google.com/apppasswords) -> in select app choose "other" -> paste "WP Mail SMTP" and click generate-> copy the password to the code
+
+
 Let's automate your email communication with the Auto Mail Sender script!
 
